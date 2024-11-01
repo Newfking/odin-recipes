@@ -9,5 +9,4 @@ If anyone reads me. I am very gratful for this program and it is very educationa
 My First Website 
      ^ ^
     '...'
-
-    I'll be building a website with 3 different links to webpages with recipes from my moms cook book. The pictures wont be real, would be nice, hungry thinking about it. When finished with this project I hope to show the ability to build a wedsite with the skills bestowed upon me. Hope none read me.
+I'll be building a website with 3 different links to webpages with recipes from my moms cook book. The pictures wont be real, would be nice, hungry thinking about it. When finished with this project I hope to show the ability to build a wedsite with the skills bestowed upon me. Hope none read me.
